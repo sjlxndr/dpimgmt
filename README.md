@@ -1,5 +1,5 @@
 # dpimgmt
-A set of scripts to manage X11 font dpi with keyboard shortcuts.
+A set of 3 tiny scripts to manage X11 font dpi with keyboard shortcuts.
 
 These scripts can help with the annoyance that comes with switching monitors, connecting to docks, etc. that can come with mobility on a Linux desktop (ymmv... this is a problem for me with xfce).
 
