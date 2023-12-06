@@ -6,7 +6,7 @@
 
 current=`xfconf-query -c xsettings -p /Xft/DPI`
 default="95" # 95 is default on my system; default also corresponds to "-1"
-target=106
+target="106"
 
 if [ $current -ne $default ]
 then
